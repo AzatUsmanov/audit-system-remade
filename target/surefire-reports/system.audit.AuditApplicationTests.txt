@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: system.audit.AuditApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.25 s -- in system.audit.AuditApplicationTests
